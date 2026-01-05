@@ -346,6 +346,7 @@ export function DemoWorkspace({
                     className="w-full px-3 py-2 border border-neutral-200 rounded focus:outline-none focus:border-neutral-400 transition-colors"
                     disabled={isAutomating}
                   />
+                  <p className="text-neutral-500 text-xs mt-1">Goal Deduction: Email field removed (not needed for reports)</p>
                 </div>
                 <div className="animate-fade-in">
                   <label className="block text-neutral-600 text-sm mb-1">
@@ -378,6 +379,7 @@ export function DemoWorkspace({
                     className="w-full px-3 py-2 border border-neutral-200 rounded focus:outline-none focus:border-neutral-400 transition-colors"
                     disabled={isAutomating}
                   />
+                  <p className="text-neutral-500 text-xs mt-1">Adaptive Automation: Matched spreadsheet data structure</p>
                 </div>
                 <div className="animate-fade-in">
                   <label className="block text-neutral-600 text-sm mb-1">
@@ -410,6 +412,7 @@ export function DemoWorkspace({
                     className="w-full px-3 py-2 border border-neutral-200 rounded focus:outline-none focus:border-neutral-400 transition-colors"
                     disabled={isAutomating}
                   />
+                  <p className="text-neutral-500 text-xs mt-1">Goal-Oriented Imagination: Created space for generative writing</p>
                 </div>
                 <div className="animate-fade-in">
                   <label className="block text-neutral-600 text-sm mb-1">
