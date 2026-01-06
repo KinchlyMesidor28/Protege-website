@@ -1,1 +1,16 @@
-{"projectId":"prj_aOxnY2BYrUfm7jCst2hPSBBnUFJB","orgId":"team_QDi4cZEDxSwpbnbuO7qvYcwN","projectName":"protege-website"}
+{
+  "projectId": "prj_aOxnY2BYrUfm7jCst2hPSBBnUFJB",
+  "orgId": "team_QDi4cZEDxSwpbnbuO7qvYcwN",
+  "projectName": "protege-website",
+  "settings": {
+    "createdAt": 1767455252327,
+    "framework": "vite",
+    "devCommand": null,
+    "installCommand": "npm install",
+    "buildCommand": "npm run build",
+    "outputDirectory": "build",
+    "rootDirectory": null,
+    "directoryListing": false,
+    "nodeVersion": "24.x"
+  }
+}
